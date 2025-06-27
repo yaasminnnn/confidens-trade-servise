@@ -367,7 +367,7 @@ function App() {
                       href="tel:87054147011" 
                       className="text-orange-500 hover:text-orange-600 transition-colors text-lg font-semibold"
                     >
-                      +7 (705) 414-70-11
+                      +7 (702) 777-14-80
                     </a>
                   </div>
                 </div>
