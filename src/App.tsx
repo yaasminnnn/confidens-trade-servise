@@ -53,7 +53,7 @@ function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Building2 className="h-8 w-8 text-orange-500 mr-3" />
-              <span className="text-xl font-bold text-gray-900">CONFIDENS TRADE</span>
+              <span className="text-xl font-bold text-gray-900">Confidens Trade Servise</span>
             </div>
             
             <nav className="hidden md:flex space-x-8">
@@ -156,7 +156,7 @@ function App() {
               О компании
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              ТОО "CONFIDENS TRADE SERVISE" - надежный партнер в сфере оптовой торговли с многолетним опытом работы
+              ТОО "Confidens Trade Servise" - надежный партнер в сфере оптовой торговли с многолетним опытом работы
             </p>
           </div>
 
@@ -191,7 +191,7 @@ function App() {
               <div>
                 <h3 className="text-2xl font-bold mb-4">Руководство компании</h3>
                 <p className="text-orange-100 mb-2">Директор:</p>
-                <p className="text-xl font-semibold">ЧУКЕНОВА БОТАКОЗ КАДРАЛИЕВНА</p>
+                <p className="text-xl font-semibold">Чукенова Ботакоз Кадралиевна</p>
               </div>
               <div className="text-center md:text-right">
                 <div className="inline-flex items-center justify-center w-24 h-24 bg-white/20 rounded-full">
@@ -346,10 +346,9 @@ function App() {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Адрес</h3>
                     <p className="text-gray-600">
-                      010000, ГОРОД АСТАНА<br />
-                      РАЙОН АЛМАТЫ<br />
-                      УЛ. ГАБИДЕНА МУСТАФИНА, Д. 21/6<br />
-                      ОФИС 285
+                      010000, г. Астана<br />
+                      ул. Габидена Мустафина, Д. 21/6<br />
+                      Офис 285
                     </p>
                   </div>
                 </div>
@@ -447,10 +446,10 @@ function App() {
           <div className="text-center">
             <div className="flex items-center justify-center mb-4">
               <Building2 className="h-8 w-8 text-orange-500 mr-3" />
-              <span className="text-2xl font-bold">CONFIDENS TRADE SERVISE</span>
+              <span className="text-2xl font-bold">Confidens Trade Servise</span>
             </div>
             <p className="text-gray-400">
-              © 2025 ТОО "CONFIDENS TRADE SERVISE". Все права защищены.
+              © 2025 ТОО "Confidens Trade Servise". Все права защищены.
             </p>
           </div>
         </div>
